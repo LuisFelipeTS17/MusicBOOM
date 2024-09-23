@@ -1,4 +1,4 @@
-<h1 align="center"> MusicBOOM 💣 </h1>
+<h1 align="center"> MusicBOOM </h1>
 
 <p align="center">
 Esse projeto foi desenvolvido no projeto bora codar #1 da Rocketseat. 
@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O MusicBOOM é um projeto de interface moderna e intuitiva para player de música, projetado para oferecer uma experiência imersiva tanto em desktop quanto em dispositivos móveis. 
+O MusicBOOM é um projeto de interface moderna e intuitiva para player de música, projetado para oferecer uma experiência imersiva tanto em desktop quanto em dispositivos móveis.
 
 ## 🔖 Layout
 
