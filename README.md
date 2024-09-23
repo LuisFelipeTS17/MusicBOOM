@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido no projeto bora codar #1 da Rocketseat.
 <br>
 
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias! 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
